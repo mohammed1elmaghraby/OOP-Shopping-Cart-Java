@@ -13,3 +13,5 @@ An object-oriented shopping cart system developed in Java. This project serves a
 
 ## Technologies Used
 * **Language:** Java (JDK)
+
+Author: Mohammed Ismail Elmaghraby
